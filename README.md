@@ -20,6 +20,6 @@ This repository contains the code for the Project on Feature Retention in Face A
 
 ## Contributors
 
-* **Naman Gupta**: [naman11@bu.edu]
-* **Paul Ellis**: [prellis@bu.edu]
-* **Vrinda Anil Thaker**: [vrinda07@bu.edu]
+* **Naman Gupta**: naman11@bu.edu
+* **Paul Ellis**: prellis@bu.edu
+* **Vrinda Anil Thaker**: vrinda07@bu.edu
