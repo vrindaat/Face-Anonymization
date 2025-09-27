@@ -17,3 +17,9 @@ This repository contains the code for the Project on Feature Retention in Face A
 ### Python Scripts
 
 * **`pipeline_referencenet_final.py`**: This script contains the final version of the StableDiffusionReferenceNetPipeline.
+
+## Contributors
+
+* **Naman Gupta**: naman11@bu.edu
+* **Paul Ellis**: prellis@bu.edu
+* **Vrinda Anil Thaker**: vrinda07@bu.edu
